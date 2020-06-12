@@ -26,6 +26,8 @@ Change settings in crawler/settings.py:
 
 ### Running
 
-scrapy crawl dataverse
+Go to root directory of the project
+
+`scrapy crawl dataverse`
 
 
